@@ -1,0 +1,6 @@
+framework module Pods_RouteTests {
+  umbrella header "Pods-RouteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

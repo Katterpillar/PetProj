@@ -1,0 +1,6 @@
+framework module Pods_Route_RouteUITests {
+  umbrella header "Pods-Route-RouteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
